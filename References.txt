@@ -1,0 +1,8 @@
+Citations:
+
+https://developer.android.com/training/index.html
+http://developer.android.com/guide/topics/ui/dialogs.html
+https://developer.edamam.com/docs
+http://www.vogella.com/tutorials/AndroidLocationAPI/article.html
+http://www.vogella.com/tutorials/AndroidSQLite/article.html
+http://www.w3schools.com/sql
